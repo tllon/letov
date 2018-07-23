@@ -1,0 +1,69 @@
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.parr{
+    background-color: #1d1b34;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 900px;
+}
+
+.pred-pred_bottom{
+    background-image: url(postap_seed.png);
+    background-repeat: no-repeat;
+    height: 900px;
+}
+
+h2{
+    text-align: center;
+    margin: 0;
+    color: white;
+    padding-top: 400px;
+}
+
+.bottom{
+    background-image: url(pred_seed.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    height: 900px;
+    top:-400px;
+}
+
+.container-one{
+    padding: 0;
+    margin: 0;
+    background: url(one.jpg) no-repeat center/cover ;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.block{
+    max-width: 1600px;
+    max-height: 200px;
+    background-color: white;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.container-two{
+    background: url(two.jpg) no-repeat center/cover ;
+    height: 1000px;
+    background-attachment: fixed;
+}
+
+.container-3{
+   background: url(thri.jpg) no-repeat center/cover ;
+    height: 1000px;
+    background-attachment: fixed; 
+}
